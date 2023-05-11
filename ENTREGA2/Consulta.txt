@@ -1,0 +1,11 @@
+•	What cases do you think arrays are more suitable than hashes for?
+
+Los arrays son ideales cuando se necesita almacenar una colección ordenada de elementos en la que el orden es importante y se accede a los elementos por su posición en el array. Los arrays son particularmente útiles cuando se trata de datos homogéneos, es decir, elementos del mismo tipo de datos, como una lista de números o una lista de nombres.
+
+•	What cases do you think hashes are more suitable than arrays for?
+
+los hashes son ideales cuando se necesita almacenar una colección de pares clave-valor en la que la clave se utiliza para acceder al valor correspondiente. Los hashes son particularmente útiles para datos heterogéneos, es decir, elementos de diferentes tipos de datos, ya que permiten asociar información adicional con cada elemento de la colección.
+
+•	Can we have hashes as arrays’ elements? Can we have arrays as hashes’ elements? Can an array or a hash be the key of any hash element?
+
+Sí podemos tener un hash en un elemento array y también podemos tener un array en un elemento hash. Sí podemos tener una matriz o un hash como clave de un elemenot hash.
